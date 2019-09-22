@@ -10,8 +10,6 @@ Tools-4-rent is a website severice demo for tools renting
 <img src="https://github.com/fengo0/Tools-4-rent/blob/master/tools-4-rent/graphs/Screen%20Shot%202019-09-22%20at%203.25.44%20PM.png">
 
 ### Viewprofile of the customer:
-<img src="https://github.com/fengo0/Tools-4-rent/blob/master/tools-4-rent/graphs/Screen%20Shot%202019-09-22%20at%203.33.32%20PM.png">
-
 <img src="https://github.com/fengo0/Tools-4-rent/blob/master/tools-4-rent/graphs/Screen%20Shot%202019-09-22%20at%204.29.36%20PM.png">
 
 ### Check tool availability:
