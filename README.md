@@ -22,3 +22,5 @@ Tools-4-rent is a website severice demo for tools renting
 
 ### Purchase
 ### Logout
+
+** The project is a course project , which is accomplished by me and three other group members. **
